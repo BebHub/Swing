@@ -5,7 +5,7 @@ import javax.swing.UIManager;
 
 /**
 *
-* @author Madikane A 220596034
+* @author S Ngwane 221602208
 */
 
 /*
